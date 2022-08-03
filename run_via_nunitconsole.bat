@@ -1,0 +1,1 @@
+"%USERPROFILE%\.nuget\packages\NUnit.ConsoleRunner\3.15.2\tools\nunit3-console.exe" "%~dp0\Test1\bin\Debug\net6.0-windows\Test1.dll"  --framework=netcore-6.0 --labels=Before --noheader --trace=Verbose
